@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Change Description',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'danielwiratman',
   github: 'danielwiratman',
   linkedin: 'daniel-wiratman',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
@@ -52,14 +52,14 @@ export default siteConfig({
   // important pages
   // navigationStyle: 'default'
   navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-    },
-    {
-      title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-    }
-  ]
+  // navigationLinks: [
+  //   {
+  //     title: 'About',
+  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //   },
+  //   {
+  //     title: 'Contact',
+  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //   }
+  // ]
 })
